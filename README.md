@@ -1,2 +1,9 @@
 # Covid-19-Analysis-and-Visualization-
  This project performs large-scale time-series analysis of global COVID-19 data to evaluate infection trends, recovery dynamics, and regional transmission patterns. The workflow includes data cleaning, transformation, aggregation, and comparative statistical analysis across multiple epidemiological parameters.
+The workflow begins with extensive data preprocessing, including handling missing values, standardizing data formats, and performing structured aggregation across temporal and geographical dimensions. Key analytical metrics such as growth rates, rolling averages, active case trends, and case fatality ratios were computed to better understand the dynamics of pandemic spread.
+
+Time-based feature construction was performed to identify peak transmission periods, surge cycles, and cross-regional variation in case intensity. Comparative statistical analysis enabled the identification of high-variance regions and anomaly spikes across confirmed, recovered, and fatality counts.
+
+To support interpretability, multiple visualization formats were developed, including line charts for trend evaluation, bar charts for regional comparison, scatter plots for correlation assessment, and bubble charts to represent multi-dimensional relationships. These visual representations simplify complex time-series data and enhance the clarity of analytical findings.
+
+The project demonstrates how structured data modeling and visual analytics can be applied to large-scale global datasets to extract meaningful insights. By transforming raw pandemic data into interpretable patterns, this analysis highlights the role of data-driven approaches in understanding outbreak progression, evaluating public health impact, and supporting informed decision-making during crisis scenarios.
